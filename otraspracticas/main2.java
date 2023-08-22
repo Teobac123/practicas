@@ -1,4 +1,4 @@
-package practicas;
+package practicas.otraspracticas;
 import java.util.Scanner;
 import java.util.Stack;
 

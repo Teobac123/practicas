@@ -1,4 +1,4 @@
-package practicas;
+package practicas.otraspracticas;
 public class EjemplosBucles {
 
     public static void main(String[] args) {
